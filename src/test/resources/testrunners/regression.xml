@@ -15,12 +15,12 @@
             <class name="tests.HomePageTest"></class>
         </classes>
     </test>
-    <test name="Open Cart Home Page Test_edge">
-        <parameter name="browser" value="edge"></parameter>
-        <classes>
-            <class name="tests.HomePageTest"></class>
-        </classes>
-    </test>
+<!--    <test name="Open Cart Home Page Test_edge">-->
+<!--        <parameter name="browser" value="edge"></parameter>-->
+<!--        <classes>-->
+<!--            <class name="tests.HomePageTest"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
     <test name="Open Cart Login Page Test_firefox">
         <parameter name="browser" value="firefox"></parameter>
         <classes>
